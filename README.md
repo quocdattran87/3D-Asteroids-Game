@@ -47,28 +47,30 @@ By Quoc Tran (s3827826)
 ### LIGHTING
         EASY
         MEDIUM - Only asteroids and ships secondary gun have specular. 
-                It made the ship too dark and I couldn't figure out how to brighten the light in time. 
-                When the asteroid is too dark, you cannot see the colour change when it is damage. 
-                It changes from regular, yellow, red, when it is lit up.
+                 It made the ship too dark and I couldn't figure out how to brighten the light in time. 
+                 When the asteroid is too dark, you cannot see the colour change when it is damage. 
+                 It changes from regular, yellow, red, when it is lit up.
 
 ### BULLETS & SHOOTING
         EASY
         MEDIUM
-        HARD - Used the bullet animation that was given as an asset. Found a billboarding code from online that I referenced in the code.
+        HARD - Used the bullet animation that was given as an asset. 
+               Found a billboarding code from online that I referenced in the code.
 
 ### EXPLOSIONS
         MEDIUM
-        HARD - Used an explosion animation that was billboarded. The animation has transparency effects on it. I used a particle engine for the ship's engine effects.
+        HARD - Used an explosion animation that was billboarded. The animation has transparency effects on it. 
+               I used a particle engine for the ship's engine effects.
 
 ### CAMERA & SHIP MOVEMENT 
         EASY
         MEDIUM
         HARD - Controls are listed as above. I couldn't fully figure out the rotational camera movements. 
-               As you turn left and right, rotate up and down gradually turns into left and right barrel rolls, 
+               As you turn left and right, rotate up and down gradually turns into left and right barrel rolls 
                while the left and right barrel rolls gradually turn into rotate up and rotate down. 
-               Then the ship moves forward it will pull ahead of the camera, when the ship moves back it will back into the camera. 
+               When the ship moves forward it will pull ahead of the camera, when the ship moves back it will back into the camera. 
                When not moving the camera will move back into the regular position. 
-               When you turn left or right 180 degrees, up and down is inverted..
+               When you turn left or right 180 degrees, up and down becomes inverted..
 
 
 ## Features Not Implemented:
